@@ -10,7 +10,6 @@
     "express": "^4.21.2",
     "mongoose": "^8.19.2",
     "@sap/cds": "^9.4.4",
-    "@sap/cds": "^9.4.4",
     "@sap/cds-dk": "9.3.2"
   },
   "type": "module",
