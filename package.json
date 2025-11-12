@@ -8,14 +8,17 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^4.21.2",
-    "mongoose": "^8.19.2"
+    "mongoose": "^8.19.2",
+    "@sap/cds": "^9.4.4",
+    "@sap/cds": "^9.4.4",
+    "@sap/cds-dk@9.3.2"
   },
   "type": "module",
   "devDependencies": {
     "@cap-js/sqlite": "^2.0.4"
   },
   "scripts": {
-    "start": "cds run"
+  "start": "npx cds run"
   },
   "private": true,
   "files": [
