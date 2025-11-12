@@ -27,6 +27,7 @@ jobs:
         run: |
           npm ci
           npm install @sap/cds-dk@9.3.2 -g
+           npm install @sap/cds@9.4.4 -g
           npm run build --if-present
           npm run test --if-present
 
@@ -65,4 +66,5 @@ jobs:
           package: .
 
           
+
 
